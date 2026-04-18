@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomNavBar</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="email">Email</string>
+    <string name="profile">Profile</string>
+    <string name="location">Location</string>
+
+    <string name="fab_add">Add</string>
+    <string name="share">Compartir</string>
+    <string name="language">Idioma</string>
+</resources>
